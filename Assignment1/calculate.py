@@ -23,3 +23,15 @@ print(str.format(B,A))
 
 print('It goes without saying, "Time is Money", and none can deny it.')
 
+#Ans None of these
+
+#4
+
+x = lambda a,b: a//b
+print(x(10,3))
+
+
+#Ans = 3
+
+
+
